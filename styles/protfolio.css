@@ -125,3 +125,19 @@ main section{
     margin-top: 130px;
     margin-bottom: 130px;
 }
+.resume-container{
+  display: flex;
+  gap: 24px;
+}
+
+.experience-description , .experience-sub-title{
+  color: #757575;
+}
+.experience-sub-title{
+  font-size: 20px;
+  font-weight: 600px;
+  margin-bottom: 20px;
+}
+.button{
+  margin-top: 50px;
+}
